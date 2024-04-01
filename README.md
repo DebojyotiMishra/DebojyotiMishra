@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
+- 🎓 I am a Bachelor's Student at EPITA - École Pour l'Informatique et les Techniques Avancées
 - 🌱 I’m currently learning Python and Web Development frameworks like ReactJs
 
 <br clear="both">
@@ -25,4 +26,5 @@ Here are some ideas to get you started:
   <img src="https://streak-stats.demolab.com?user=DebojyotiMishra&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
+## Get in Touch
+- 📫 You can reach me via email at [debojyoti.mishra.x@gmail.com](mailto:debojyoti.mishra.x@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/debojyotimishra/).
