@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## About Me
 - 🌱 I’m currently learning Python and Web Development frameworks like ReactJs
 
 <br clear="both">
