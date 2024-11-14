@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi, I'm Debojyoti Mishra</h1>
 <img src="Group 56.svg" width="100%"/>
 
 ###
