@@ -75,7 +75,9 @@ Here are some ideas to get you started:
 
 ###
 
+<div align="center">
 [![Discord Presence](https://lanyard.cnrad.dev/api/733220943006269470)](https://discord.com/users/733220943006269470)
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DebojyotiMishra.DebojyotiMishra&left_color=black&right_color=gray&left_text=Profile%20Views"  />
