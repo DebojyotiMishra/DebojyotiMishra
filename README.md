@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <!-- Section: GitHub Stats -->
 <h2 align="center">Stats</h2>
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DebojyotiMishra&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DebojyotiMishra&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true" height="150" />
   <img src="https://streak-stats.demolab.com?user=DebojyotiMishra&theme=github_dark&hide_border=true&border_radius=5" height="150" />
