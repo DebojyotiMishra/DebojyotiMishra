@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 ---
 
 <!-- Section: GitHub Stats -->
-<h2 align="center">Stats</h2>
+<h2>Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DebojyotiMishra&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&custom_title=Github%20Stats" height="150" />
