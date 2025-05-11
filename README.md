@@ -12,75 +12,100 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="Group 56.svg" width="100%"/>
+<img src="banner.svg" width="100%"/>
 
 ###
 
-<h2 align="center">Tech Stack</h2>
+## Skills
+
+<div style="display: flex; flex-wrap: wrap; padding: 0; margin: 0;">
+
+  <div style="min-width: 200px; flex: 1; padding: 0; margin: 1rem;">
+    <strong>Languages</strong><br><hr>
+    <ul style="list-style: none; padding-left: 0; margin: 0;">
+      <li>Python</li>
+      <li>JavaScript</li>
+      <li>PHP</li>
+      <li>SQL</li>
+      <li>NoSQL</li>
+    </ul>
+  </div>
+
+  <div style="min-width: 200px; flex: 1; padding: 0; margin: 1rem;">
+    <strong>Web Development</strong><br><hr>
+    <ul style="list-style: none; padding-left: 0; margin: 0;">
+      <li>Node.js</li>
+      <li>Next.js</li>
+      <li>Django</li>
+      <li>Tailwind CSS</li>
+    </ul>
+  </div>
+
+  <div style="min-width: 200px; flex: 1; padding: 0; margin: 1rem;">
+    <strong>Mobile Development</strong><br><hr>
+    <ul style="list-style: none; padding-left: 0; margin: 0;">
+      <li>iOS</li>
+      <li>Android</li>
+    </ul>
+  </div>
+
+  <div style="min-width: 200px; flex: 1; padding: 0; margin: 1rem;">
+    <strong>Cloud + DevOps</strong><br><hr>
+    <ul style="list-style: none; padding-left: 0; margin: 0;">
+      <li>CI/CD Principles</li>
+      <li>Git/GitHub</li>
+      <li>Linux Admin</li>
+      <li>Software Integration</li>
+    </ul>
+  </div>
+
+  <div style="min-width: 200px; flex: 1; padding: 0; margin: 1rem;">
+    <strong>Security</strong><br><hr>
+    <ul style="list-style: none; padding-left: 0; margin: 0;">
+      <li>Software Security</li>
+      <li>IAM</li>
+      <li>GDPR</li>
+    </ul>
+  </div>
+
+  <div style="min-width: 200px; flex: 1; padding: 0; margin: 1rem;">
+    <strong>Networking</strong><br><hr>
+    <ul style="list-style: none; padding-left: 0; margin: 0;">
+      <li>Cisco Packet Tracer</li>
+      <li>GNS3</li>
+      <li>OSPF (MD5, Asymmetric)</li>
+      <li>Subnetting</li>
+      <li>NAT</li>
+    </ul>
+  </div>
+
+</div>
+
+
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="24" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="24" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="24" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="24" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="24" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="24" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="24" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="24" alt="php logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="24" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="24" alt="tailwindcss logo"  />
+## Contact
+
+<div>
+  <ul style="list-style:none; padding-left: 0;">
+    <li>
+      <a href="https://www.linkedin.com/in/debojyotimishra/" target="_blank">
+        <p>Linkedin ↗︎</p>
+      </a>
+    </li>
+    <li>
+      <a href="debojyoti.mishra.x@gmail.com" target="_blank">
+        <p>Gmail ↗︎</p>
+      </a>
+    </li>
+  </ul>
 </div>
 
 ###
 
-<h2 align="center">Contact</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/debojyotimishra/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="debojyoti.mishra.x@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-
-<h2 align="center">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DebojyotiMishra&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=github_dark&locale=en&hide_border=true&order=1&custom_title=Github%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DebojyotiMishra&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=DebojyotiMishra&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=DebojyotiMishra&theme=onestar&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebojyotiMishra&radius=13&theme=github-dark&area=true&order=5&hide_border=true&title_color=ffffff" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://discord.com/users/733220943006269470"><img src="https://lanyard.cnrad.dev/api/733220943006269470" /></a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DebojyotiMishra.DebojyotiMishra&left_color=black&right_color=gray&left_text=Profile%20Views"  />
+<div>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DebojyotiMishra.DebojyotiMishra&left_color=black&right_color=dark-gray&left_text=Profile%20Views"  />
 </div>
 
 ###
