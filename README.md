@@ -4,20 +4,20 @@ Paris, France | [Email](mailto:debojyoti.mishra.x@gmail.com) | [Website](https:/
 
 ---
 
-## 🎓 Education
+## Education
 **EPITA, Paris, France** – Bachelor’s in Computer Science (Sep 2023 – 2026)  
 Relevant Coursework: Python, Data Structures & Algorithms, PHP, SQL, Web Development, Linear Algebra, Probability & Statistics, Java  
 
 ---
 
-## 📜 Certifications
+## Certifications
 | Certification | Platform | Date |
 |---------------|---------|------|
 | Google Cybersecurity Professional Certificate | Coursera / Google Career Certificates | Oct 2024 |
 
 ---
 
-## 💻 Projects
+## Projects
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
 | [AskPostgreSQL – Chat with your Database](https://github.com/DebojyotiMishra/AskPostgreSQL) | Next.js 15, TypeScript, PostgreSQL, GPT-5 Mini | Natural language querying for databases. Features authentication, query history, dynamic visualizations, CSV analysis, GDPR-compliant. |
@@ -26,7 +26,7 @@ Relevant Coursework: Python, Data Structures & Algorithms, PHP, SQL, Web Develop
 
 ---
 
-## 🛠️ Skills
+## Skills
 | Category | Skills |
 |----------|-------|
 | Languages | Python, JavaScript, Java, PHP, C# |
@@ -38,5 +38,5 @@ Relevant Coursework: Python, Data Structures & Algorithms, PHP, SQL, Web Develop
 
 ---
 
-## 📫 Contact
+## Contact
 [Email](mailto:debojyoti.mishra.x@gmail.com) | [Website](https://debojyotimishra.com) | [LinkedIn](https://linkedin.com/in/debojyotimishra) | [GitHub](https://github.com/DebojyotiMishra)
