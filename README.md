@@ -1,6 +1,6 @@
 # Debojyoti Mishra
 
-Paris, France | [Email](mailto:debojyoti.mishra.x@gmail.com) | [Website](https://debojyotimishra.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/DebojyotiMishra)
+Paris, France | [Email](mailto:debojyoti.mishra.x@gmail.com) | [Website](https://debojyotimishra.com) | [LinkedIn](https://linkedin.com/in/debojyotimishra) | [GitHub](https://github.com/DebojyotiMishra)
 
 ---
 
