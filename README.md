@@ -10,13 +10,6 @@ Relevant Coursework: Python, Data Structures & Algorithms, PHP, SQL, Web Develop
 
 ---
 
-## Certifications
-| Certification | Platform | Date |
-|---------------|---------|------|
-| Google Cybersecurity Professional Certificate | Coursera / Google Career Certificates | Oct 2024 |
-
----
-
 ## Projects
 | Project | Tech Stack | Description |
 |---------|-----------|-------------|
