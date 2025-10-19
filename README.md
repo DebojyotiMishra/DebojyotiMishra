@@ -1,13 +1,4 @@
 # Debojyoti Mishra
-
-Paris, France | [Email](mailto:debojyoti.mishra.x@gmail.com) | [Website](https://debojyotimishra.com) | [LinkedIn](https://linkedin.com/in/debojyotimishra) | [GitHub](https://github.com/DebojyotiMishra)
-
----
-
-## Education
-**EPITA, Paris, France** – Bachelor’s in Computer Science (Sep 2023 – 2026)  
-Relevant Coursework: Python, Data Structures & Algorithms, PHP, SQL, Web Development, Linear Algebra, Probability & Statistics, Java  
-
 ---
 
 ## Projects
@@ -27,7 +18,6 @@ Relevant Coursework: Python, Data Structures & Algorithms, PHP, SQL, Web Develop
 | Tools / Platforms | Git, GitHub, Docker, Vercel, Netlify |
 | Databases | SQL, PostgreSQL, MongoDB |
 | Other | Linux, REST APIs, GDPR, Prompt Engineering, Network Engineering |
-| Languages Spoken | French (B1), English (Native), Hindi (Native), Bengali (Native) |
 
 ---
 
