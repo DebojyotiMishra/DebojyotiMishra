@@ -20,6 +20,7 @@
 | Other | Linux, REST APIs, GDPR, Prompt Engineering, Network Engineering |
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=DebojyotiMishra)](https://github.com/DebojyotiMishra/github-profile-trophy)
 
 ## Contact
 [Email](mailto:debojyoti.mishra.x@gmail.com) | [Website](https://debojyotimishra.com) | [LinkedIn](https://linkedin.com/in/debojyotimishra) | [GitHub](https://github.com/DebojyotiMishra)
